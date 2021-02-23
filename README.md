@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
-**iola1999/iola1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Thank you for standing by.
+
+This is iola1999, frontend developer, base in Hangzhou.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iola1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
