@@ -20,4 +20,4 @@ My Project:
 - [hu60-jhtml](https://github.com/iola1999/hu60-jhtml):  Frontend for a forum
 - [school-tool-mini-program](https://678234.xyz/2020/04/19/zjut-mp-tool/):  uni-app + node.js
 - [SmartHomeSupportSystem](https://github.com/iola1999/store/blob/master/%E6%AF%95%E8%AE%BE-%E7%A7%BB%E9%99%A4%E6%97%A0%E5%85%B3%E5%86%85%E5%AE%B9.docx): SmartHome product hardware, manage system, backend server, cross-platform user APP. Based on Arduino + uni-app + Vue.js + Python + ActiveMQ
-- [nodejs-typescript-backend](https://github.com/iola1999/nodejs-typescript-backend):  A server-side template project for small personal projects. Based on node.js + express + typeorm. Continuous code improvement
+- [nodejs-typescript-backend](https://github.com/iola1999/nodejs-typescript-backend):  A server-side project for small personal projects. Based on node.js + express + typeorm. Continuous code improvement
