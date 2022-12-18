@@ -15,6 +15,7 @@ My Blog:
 - [iolaSay](https://678234.xyz/): Simply record about my fun research.
 
 My Project:
+- [calc-s2-rust](https://github.com/iola1999/calc-s2-rust): 使用 rust 编写，编译为 wasm，用于浏览器或 Nodejs 环境计算 ssimulacra2。Written in Rust, compiled to Wasm, for computing ssimulacra2 in browser or Nodejs environment
 - [ssimulacra2-js](https://github.com/iola1999/ssimulacra2-js): 使用 js 实现的 ssimulacra2 计算工具。A ssimulacra2 calculation tool implemented using js
 - [netease-game-pc-quick-QR-login](https://678234.xyz/2020/08/02/netease-game-quick-login/): Electron + Vue.js + ElementUI + node.js + Python
 - [SmartHomeSupportSystem](https://github.com/iola1999/store/blob/master/%E6%AF%95%E8%AE%BE-%E7%A7%BB%E9%99%A4%E6%97%A0%E5%85%B3%E5%86%85%E5%AE%B9.docx): SmartHome product hardware, manage system, backend server, cross-platform user APP. Based on Arduino + uni-app + Vue.js + Python + ActiveMQ
